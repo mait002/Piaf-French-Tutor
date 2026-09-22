@@ -25,3 +25,7 @@ Users select their French proficiency level and begin chatting with Piaf in Fren
 - **Qwen3:4B-Instruct**
 - **Ollama**
 - **Web Speech API**
+
+## Screenshots
+
+![ChatPage](public/chat_screenshot.png)

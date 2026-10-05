@@ -76,7 +76,7 @@ export async function POST(request: Request) {
                 stream: false,
 
                 options: {
-                    temperature: 0.4
+                    temperature: 0.7
                 }
             })
         }
